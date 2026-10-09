@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300" role="img" aria-label="Creative Computing curriculum guide">
+<rect width="520" height="300" fill="#f6f2e5"/>
+<rect x="36" y="25" width="448" height="250" fill="#fff" stroke="#ccae93" stroke-width="2"/>
+<path d="M36 95H484" stroke="#75aed1" stroke-width="12"/>
+<text x="65" y="73" font-family="Georgia,serif" font-size="27" fill="#534745">Creative Computing</text>
+<text x="65" y="145" font-family="Arial,sans-serif" font-size="19" fill="#534745">Curriculum Guide</text>
+<text x="65" y="184" font-family="Arial,sans-serif" font-size="15" fill="#534745">Harvard Graduate School of Education</text>
+<text x="65" y="244" font-family="Arial,sans-serif" font-size="16" fill="#347698">Explore the guide →</text>
+</svg>
